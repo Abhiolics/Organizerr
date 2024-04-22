@@ -1,0 +1,1 @@
+"Organizerr is a dynamic project management tool built on React and Tailwind CSS, designed to streamline task organization and productivity. With Organizerr, users can effortlessly add, categorize, and prioritize tasks, utilizing intuitive drag-and-drop functionality for seamless task management.
